@@ -13,7 +13,7 @@ Summary(fr):	Module Perl Inline::Befunge
 Summary(it):	Modulo di Perl Inline::Befunge
 Summary(ja):	Inline::Befunge Perl ¥â¥¸¥å¡¼¥ë
 Summary(ko):	Inline::Befunge ÆÞ ¸ðÁÙ
-Summary(no):	Perlmodul Inline::Befunge
+Summary(nb):	Perlmodul Inline::Befunge
 Summary(pl):	Modu³ Perla Inline::Befunge
 Summary(pt):	Módulo de Perl Inline::Befunge
 Summary(pt_BR):	Módulo Perl Inline::Befunge
