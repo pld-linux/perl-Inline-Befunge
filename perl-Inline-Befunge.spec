@@ -23,7 +23,7 @@ Summary(uk):	Модуль для Perl Inline::Befunge
 Summary(zh_CN):	Inline::Befunge Perl дё©И
 Name:		perl-Inline-Befunge
 Version:	0.04
-Release:	1
+Release:	2
 License:	Artistic or GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
