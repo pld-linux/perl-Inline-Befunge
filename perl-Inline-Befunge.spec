@@ -1,8 +1,26 @@
+#
+# Conditional build:
+# _without_tests - do not perform "make test"
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Inline
-%define	pnam	Befunge
-Summary:	Inline::Befunge perl module
-Summary(pl):	Modu³ perla Inline::Befunge
+%define		pdir	Inline
+%define		pnam	Befunge
+Summary:	Inline::Befunge Perl module
+Summary(cs):	Modul Inline::Befunge pro Perl
+Summary(da):	Perlmodul Inline::Befunge
+Summary(de):	Inline::Befunge Perl Modul
+Summary(es):	Módulo de Perl Inline::Befunge
+Summary(fr):	Module Perl Inline::Befunge
+Summary(it):	Modulo di Perl Inline::Befunge
+Summary(ja):	Inline::Befunge Perl ¥â¥¸¥å¡¼¥ë
+Summary(ko):	Inline::Befunge ÆŞ ¸ğÁÙ
+Summary(no):	Perlmodul Inline::Befunge
+Summary(pl):	Modu³ Perla Inline::Befunge
+Summary(pt):	Módulo de Perl Inline::Befunge
+Summary(pt_BR):	Módulo Perl Inline::Befunge
+Summary(ru):	íÏÄÕÌØ ÄÌÑ Perl Inline::Befunge
+Summary(sv):	Inline::Befunge Perlmodul
+Summary(uk):	íÏÄÕÌØ ÄÌÑ Perl Inline::Befunge
+Summary(zh_CN):	Inline::Befunge Perl Ä£¿é
 Name:		perl-Inline-Befunge
 Version:	0.04
 Release:	1
@@ -29,6 +47,7 @@ Befunge.
 %build
 perl Makefile.PL
 %{__make}
+%{!?_without_tests:%{__make} test}
 
 %install
 rm -rf $RPM_BUILD_ROOT
