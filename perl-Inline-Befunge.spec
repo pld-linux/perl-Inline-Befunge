@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define		pdir	Inline
-%define		pnam	Befunge
+%define	pdir	Inline
+%define	pnam	Befunge
 Summary:	Inline::Befunge Perl module
 Summary(cs):	Modul Inline::Befunge pro Perl
 Summary(da):	Perlmodul Inline::Befunge
