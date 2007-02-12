@@ -6,22 +6,22 @@
 %define		pdir	Inline
 %define		pnam	Befunge
 Summary:	Inline::Befunge Perl module
-Summary(cs):	Modul Inline::Befunge pro Perl
-Summary(da):	Perlmodul Inline::Befunge
-Summary(de):	Inline::Befunge Perl Modul
-Summary(es):	Módulo de Perl Inline::Befunge
-Summary(fr):	Module Perl Inline::Befunge
-Summary(it):	Modulo di Perl Inline::Befunge
-Summary(ja):	Inline::Befunge Perl ¥â¥¸¥å¡¼¥ë
-Summary(ko):	Inline::Befunge ÆŞ ¸ğÁÙ
-Summary(nb):	Perlmodul Inline::Befunge
-Summary(pl):	Modu³ Perla Inline::Befunge
-Summary(pt):	Módulo de Perl Inline::Befunge
-Summary(pt_BR):	Módulo Perl Inline::Befunge
-Summary(ru):	íÏÄÕÌØ ÄÌÑ Perl Inline::Befunge
-Summary(sv):	Inline::Befunge Perlmodul
-Summary(uk):	íÏÄÕÌØ ÄÌÑ Perl Inline::Befunge
-Summary(zh_CN):	Inline::Befunge Perl Ä£¿é
+Summary(cs.UTF-8):   Modul Inline::Befunge pro Perl
+Summary(da.UTF-8):   Perlmodul Inline::Befunge
+Summary(de.UTF-8):   Inline::Befunge Perl Modul
+Summary(es.UTF-8):   MÃ³dulo de Perl Inline::Befunge
+Summary(fr.UTF-8):   Module Perl Inline::Befunge
+Summary(it.UTF-8):   Modulo di Perl Inline::Befunge
+Summary(ja.UTF-8):   Inline::Befunge Perl ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«
+Summary(ko.UTF-8):   Inline::Befunge í„ ëª¨ì¤„
+Summary(nb.UTF-8):   Perlmodul Inline::Befunge
+Summary(pl.UTF-8):   ModuÅ‚ Perla Inline::Befunge
+Summary(pt.UTF-8):   MÃ³dulo de Perl Inline::Befunge
+Summary(pt_BR.UTF-8):   MÃ³dulo Perl Inline::Befunge
+Summary(ru.UTF-8):   ĞœĞ¾Ğ´ÑƒĞ»ÑŒ Ğ´Ğ»Ñ Perl Inline::Befunge
+Summary(sv.UTF-8):   Inline::Befunge Perlmodul
+Summary(uk.UTF-8):   ĞœĞ¾Ğ´ÑƒĞ»ÑŒ Ğ´Ğ»Ñ Perl Inline::Befunge
+Summary(zh_CN.UTF-8):   Inline::Befunge Perl æ¨¡å—
 Name:		perl-Inline-Befunge
 Version:	0.04
 Release:	3
@@ -40,8 +40,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Inline::Befunge - write Perl subs in Befunge.
 
-%description -l pl
-Modu³ Inline::Befunge - pozwalaj±cy na pisanie procedur Perla w jêzyku
+%description -l pl.UTF-8
+ModuÅ‚ Inline::Befunge - pozwalajÄ…cy na pisanie procedur Perla w jÄ™zyku
 Befunge.
 
 %prep
