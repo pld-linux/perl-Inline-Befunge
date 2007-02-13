@@ -6,22 +6,22 @@
 %define		pdir	Inline
 %define		pnam	Befunge
 Summary:	Inline::Befunge Perl module
-Summary(cs.UTF-8):   Modul Inline::Befunge pro Perl
-Summary(da.UTF-8):   Perlmodul Inline::Befunge
-Summary(de.UTF-8):   Inline::Befunge Perl Modul
-Summary(es.UTF-8):   Módulo de Perl Inline::Befunge
-Summary(fr.UTF-8):   Module Perl Inline::Befunge
-Summary(it.UTF-8):   Modulo di Perl Inline::Befunge
-Summary(ja.UTF-8):   Inline::Befunge Perl モジュール
-Summary(ko.UTF-8):   Inline::Befunge 펄 모줄
-Summary(nb.UTF-8):   Perlmodul Inline::Befunge
-Summary(pl.UTF-8):   Moduł Perla Inline::Befunge
-Summary(pt.UTF-8):   Módulo de Perl Inline::Befunge
-Summary(pt_BR.UTF-8):   Módulo Perl Inline::Befunge
-Summary(ru.UTF-8):   Модуль для Perl Inline::Befunge
-Summary(sv.UTF-8):   Inline::Befunge Perlmodul
-Summary(uk.UTF-8):   Модуль для Perl Inline::Befunge
-Summary(zh_CN.UTF-8):   Inline::Befunge Perl 模块
+Summary(cs.UTF-8):	Modul Inline::Befunge pro Perl
+Summary(da.UTF-8):	Perlmodul Inline::Befunge
+Summary(de.UTF-8):	Inline::Befunge Perl Modul
+Summary(es.UTF-8):	Módulo de Perl Inline::Befunge
+Summary(fr.UTF-8):	Module Perl Inline::Befunge
+Summary(it.UTF-8):	Modulo di Perl Inline::Befunge
+Summary(ja.UTF-8):	Inline::Befunge Perl モジュール
+Summary(ko.UTF-8):	Inline::Befunge 펄 모줄
+Summary(nb.UTF-8):	Perlmodul Inline::Befunge
+Summary(pl.UTF-8):	Moduł Perla Inline::Befunge
+Summary(pt.UTF-8):	Módulo de Perl Inline::Befunge
+Summary(pt_BR.UTF-8):	Módulo Perl Inline::Befunge
+Summary(ru.UTF-8):	Модуль для Perl Inline::Befunge
+Summary(sv.UTF-8):	Inline::Befunge Perlmodul
+Summary(uk.UTF-8):	Модуль для Perl Inline::Befunge
+Summary(zh_CN.UTF-8):	Inline::Befunge Perl 模块
 Name:		perl-Inline-Befunge
 Version:	0.04
 Release:	3
