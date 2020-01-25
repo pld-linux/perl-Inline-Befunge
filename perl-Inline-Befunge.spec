@@ -4,7 +4,6 @@
 
 %define		pdir	Inline
 %define		pnam	Befunge
-%include	/usr/lib/rpm/macros.perl
 Summary:	Inline::Befunge Perl module
 Summary(cs.UTF-8):	Modul Inline::Befunge pro Perl
 Summary(da.UTF-8):	Perlmodul Inline::Befunge
